@@ -1,1 +1,1 @@
-Aplicativo para gestão de portaria para condomínios residênciais.
+Aplicativo para gestão de portaria para condomínios residenciais.
